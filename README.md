@@ -6,6 +6,7 @@
 - Account on GitlLab, because our Terraform's Configuration Code is hosted on GitLab
 - An AWS Account, because we are automating AWS infrastructure with Terraform
 
+#Change Test
 
 ## Useful Links
 - Code Editor, e.g. Visual Studio Code: https://code.visualstudio.com/download
